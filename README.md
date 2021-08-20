@@ -21,6 +21,7 @@
 
 [![Instagram](https://img.shields.io/badge/@tiko.lo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tiko.lo)
 [![Twitter](https://img.shields.io/badge/@tiko_lo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tiko_lo)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-lopes-376a32180/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-lopes-376a32180/)
+[![Dev.to blog](https://img.shields.io/badge/my.site-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://carloslopes.vercel.app)
 
 
